@@ -13,6 +13,7 @@
 		1226C3C72496597700586CE2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1226C3C62496597700586CE2 /* Assets.xcassets */; };
 		1226C3CA2496597700586CE2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1226C3C92496597700586CE2 /* Preview Assets.xcassets */; };
 		1226C3CD2496597700586CE2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1226C3CB2496597700586CE2 /* LaunchScreen.storyboard */; };
+		1226C3D72496606E00586CE2 /* SceneAssets.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 1226C3D62496606E00586CE2 /* SceneAssets.scnassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1226C3C92496597700586CE2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1226C3CC2496597700586CE2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1226C3CE2496597700586CE2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1226C3D62496606E00586CE2 /* SceneAssets.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = SceneAssets.scnassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				1226C3C02496597400586CE2 /* AppDelegate.swift */,
 				1226C3C22496597400586CE2 /* SceneDelegate.swift */,
 				1226C3C42496597400586CE2 /* ContentView.swift */,
+				1226C3D62496606E00586CE2 /* SceneAssets.scnassets */,
 				1226C3C62496597700586CE2 /* Assets.xcassets */,
 				1226C3CB2496597700586CE2 /* LaunchScreen.storyboard */,
 				1226C3CE2496597700586CE2 /* Info.plist */,
@@ -136,6 +139,7 @@
 				1226C3CD2496597700586CE2 /* LaunchScreen.storyboard in Resources */,
 				1226C3CA2496597700586CE2 /* Preview Assets.xcassets in Resources */,
 				1226C3C72496597700586CE2 /* Assets.xcassets in Resources */,
+				1226C3D72496606E00586CE2 /* SceneAssets.scnassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
